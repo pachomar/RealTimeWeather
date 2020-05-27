@@ -1,0 +1,85 @@
+{
+  "searches": [
+    {
+      "searchDate": "5/26/2020, 11:01:30 PM",
+      "city": "Tokyo",
+      "weather": "Clouds",
+      "temperature": 295.3,
+      "maxTemperature": 296.48,
+      "minTemperature": 293.71,
+      "id": 1
+    },
+    {
+      "searchDate": "5/26/2020, 11:01:41 PM",
+      "city": "London",
+      "weather": "Clouds",
+      "temperature": 287.84,
+      "maxTemperature": 289.82,
+      "minTemperature": 285.37,
+      "id": 2
+    },
+    {
+      "searchDate": "5/26/2020, 11:01:48 PM",
+      "city": "Berlin",
+      "weather": "Clouds",
+      "temperature": 282.28,
+      "maxTemperature": 284.26,
+      "minTemperature": 280.15,
+      "id": 3
+    },
+    {
+      "searchDate": "5/26/2020, 11:01:54 PM",
+      "city": "Sydney",
+      "weather": "Clouds",
+      "temperature": 290.84,
+      "maxTemperature": 291.48,
+      "minTemperature": 289.82,
+      "id": 4
+    },
+    {
+      "searchDate": "5/26/2020, 11:02:12 PM",
+      "city": "Los Angeles",
+      "weather": "Clear",
+      "temperature": 296.37,
+      "maxTemperature": 302.04,
+      "minTemperature": 290.15,
+      "id": 5
+    },
+    {
+      "searchDate": "5/26/2020, 11:16:15 PM",
+      "city": "Chicago",
+      "weather": "Clouds",
+      "temperature": 301.03,
+      "maxTemperature": 302.15,
+      "minTemperature": 300.37,
+      "id": 6
+    },
+    {
+      "searchDate": "5/26/2020, 11:16:28 PM",
+      "city": "Vienna",
+      "weather": "Clouds",
+      "temperature": 281.89,
+      "maxTemperature": 283.71,
+      "minTemperature": 280.37,
+      "id": 7
+    },
+    {
+      "searchDate": "5/26/2020, 11:16:54 PM",
+      "city": "Sweden",
+      "weather": "Rain",
+      "temperature": 281.15,
+      "maxTemperature": 281.15,
+      "minTemperature": 281.15,
+      "id": 8
+    },
+    {
+      "searchDate": "5/26/2020, 11:17:45 PM",
+      "city": "Tokyo",
+      "weather": "Clouds",
+      "temperature": 295.51,
+      "maxTemperature": 297.04,
+      "minTemperature": 293.71,
+      "id": 9
+    }
+  ]
+}

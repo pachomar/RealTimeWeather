@@ -1,0 +1,13 @@
+.table-content{
+    width:100%;
+    text-align: center;
+}
+
+.controls{
+    margin: 10px 10px 10px 10px;
+    width:33%;
+}
+
+#searchError{
+    color: red;
+}
